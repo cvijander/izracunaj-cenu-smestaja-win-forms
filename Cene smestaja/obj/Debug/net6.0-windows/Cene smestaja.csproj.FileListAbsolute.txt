@@ -1,0 +1,17 @@
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Cene smestaja\Cene smestaja\bin\Debug\net6.0-windows\Cene smestaja.exe
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Cene smestaja\Cene smestaja\bin\Debug\net6.0-windows\Cene smestaja.deps.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Cene smestaja\Cene smestaja\bin\Debug\net6.0-windows\Cene smestaja.runtimeconfig.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Cene smestaja\Cene smestaja\bin\Debug\net6.0-windows\Cene smestaja.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Cene smestaja\Cene smestaja\bin\Debug\net6.0-windows\Cene smestaja.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Cene smestaja\Cene smestaja\obj\Debug\net6.0-windows\Cene smestaja.csproj.AssemblyReference.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Cene smestaja\Cene smestaja\obj\Debug\net6.0-windows\Cene_smestaja.Form1.resources
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Cene smestaja\Cene smestaja\obj\Debug\net6.0-windows\Cene smestaja.csproj.GenerateResource.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Cene smestaja\Cene smestaja\obj\Debug\net6.0-windows\Cene smestaja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Cene smestaja\Cene smestaja\obj\Debug\net6.0-windows\Cene smestaja.AssemblyInfoInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Cene smestaja\Cene smestaja\obj\Debug\net6.0-windows\Cene smestaja.AssemblyInfo.cs
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Cene smestaja\Cene smestaja\obj\Debug\net6.0-windows\Cene smestaja.csproj.CoreCompileInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Cene smestaja\Cene smestaja\obj\Debug\net6.0-windows\Cene smestaja.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Cene smestaja\Cene smestaja\obj\Debug\net6.0-windows\refint\Cene smestaja.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Cene smestaja\Cene smestaja\obj\Debug\net6.0-windows\Cene smestaja.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Cene smestaja\Cene smestaja\obj\Debug\net6.0-windows\Cene smestaja.genruntimeconfig.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Cene smestaja\Cene smestaja\obj\Debug\net6.0-windows\ref\Cene smestaja.dll
